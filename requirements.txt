@@ -1,4 +1,9 @@
 streamlit
 folium
+streamlit_folium
+folium_static
 pandas
-plotly
+folium.plugins
+MiniMap, MeasureControl
+plotly.express
+streamlit.components.v1 
