@@ -3,3 +3,4 @@ folium
 pandas
 plotly
 streamlit-folium
+openpyxl
